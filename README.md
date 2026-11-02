@@ -65,8 +65,9 @@ I enjoy building software, designing systems, and turning ideas into practical s
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ChhenG02
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- Telegram: https://t.me/Sokchheng02
+- LinkedIn: https://www.linkedin.com/in/sokchheng-eng-7b7487356
+- Email: sokchhengeng5@gmail.com
 
 ---
 
